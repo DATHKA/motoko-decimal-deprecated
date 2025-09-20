@@ -1,6 +1,6 @@
 [package]
 name = "motoko-decimal"
-version = "0.0.0"
+version = "1.0.0"
 description = "A fixed point Decimal type and arithmetic for Motoko."
 repository = "https://github.com/DATHKA/motoko-decimal-deprecated"
 keywords = [ "utils", "types", "decimal", "math", "fixed-point" ]
